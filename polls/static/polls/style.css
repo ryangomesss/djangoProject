@@ -1,0 +1,17 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    background-color: blue;
+}
+
+ul {
+    list-style-type: none;
+
+}
